@@ -25,7 +25,7 @@ A curated collection of my solutions to programming problems from various compet
 
 | Platform      | Solved |
 | ------------- | ------ |
-| LeetCode      | 2      |
+| LeetCode      | 5      |
 | Codeforces    | 0      |
 | CodeChef      | 0      |
 | HackerRank    | 0      |
