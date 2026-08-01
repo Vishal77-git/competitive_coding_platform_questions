@@ -8,7 +8,7 @@ A curated collection of my solutions to programming problems from various compet
 - Codeforces _(coming soon)_
 - CodeChef _(coming soon)_
 - HackerRank _(coming soon)_
-- GeeksforGeeks _(coming soon)_
+- GeeksforGeeks
 
 ## 💻 Language
 
@@ -25,7 +25,7 @@ A curated collection of my solutions to programming problems from various compet
 
 | Platform      | Solved |
 | ------------- | ------ |
-| LeetCode      | 5      |
+| LeetCode      | 9      |
 | Codeforces    | 0      |
 | CodeChef      | 0      |
 | HackerRank    | 0      |
