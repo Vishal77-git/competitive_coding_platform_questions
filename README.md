@@ -29,7 +29,7 @@ A curated collection of my solutions to programming problems from various compet
 | Codeforces    | 0      |
 | CodeChef      | 0      |
 | HackerRank    | 0      |
-| GeeksforGeeks | 0      |
+| GeeksforGeeks | 2      |
 
 ## 📈 Future Plans
 
