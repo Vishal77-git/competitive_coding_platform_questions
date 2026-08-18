@@ -5,9 +5,9 @@ A curated collection of my solutions to programming problems from various compet
 ## 📌 Platforms
 
 - LeetCode
-- Codeforces _(coming soon)_
-- CodeChef _(coming soon)_
-- HackerRank _(coming soon)_
+- Codeforces (coming soon)
+- CodeChef (coming soon)
+- HackerRank (coming soon)
 - GeeksforGeeks
 
 ## 💻 Language
